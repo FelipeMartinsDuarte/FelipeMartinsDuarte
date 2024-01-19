@@ -21,9 +21,11 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <h1 style="display: inline-block; font-size:48px; font-family:Sans-serif;">Bora codar junto?</h1><span style="color: red; font-size:18px; font-family:Sans-serif;">一緒にプログラムしましょう?</span>
+    <h1 style="display: inline-block; font-size:48px; font-family:Sans-serif;">Bora codar junto?</h1>
   </ul>
 </div>
+
+<span style="color: red; font-size:18px; font-family:Sans-serif;">一緒にプログラムしましょう?</span>
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
