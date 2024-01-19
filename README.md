@@ -20,7 +20,10 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h3 style="display: inline-block; size: 48px; font-family:Sans-serif;">Bora codar junto?</h3></summary>
-    <h4>一緒にプログラムしましょう?</h4>
+    <h1 style="display: inline-block; font-size:48px; font-family:Sans-serif;">Bora codar junto?</h1>
+  </ul>
+  
+  <ul align="center">
+    <h3 style="display: inline-block; size: 48px; font-family:Sans-serif;">一緒にプログラムしましょう?</h3>
   </ul>
 </div>
