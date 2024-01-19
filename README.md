@@ -10,5 +10,7 @@
 🌴 Desenvolver é minha praia 
 🏢 Comecei a programar com 10 anos (Servers e Mods de Minecraft)
 ⏰ Muitos projetos serão lançados  
-🌙 Durmo fazendo código 
+🌙 Durmo fazendo código
+💻 Lider em Técnologia e Design
+🦾 Apaixonado por Robôs e Mecânica 
 ```
