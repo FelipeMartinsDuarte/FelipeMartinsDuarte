@@ -2,7 +2,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<img src="./img/gifs-do-mascara-1.gif" align="right" width="350">
+<img src="./img/1459354576-82kevl.gif" align="right" width="350">
 </a>
 </picture>
 
